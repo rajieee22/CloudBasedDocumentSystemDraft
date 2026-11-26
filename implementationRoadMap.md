@@ -1,0 +1,2 @@
+Thinking of creating a one day or a week encryption key so that, whenever approving a type permit. It works like this: whenever an approver clicks the approve button only alongside the pop up it will display an input key field before confirming. The key that will be generated is sent to the said approvers email automatically. It will be a hassle but it will be secure I guess if they dont bypass it?
+It would be awesome if the server that stores those
